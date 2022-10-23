@@ -16,7 +16,7 @@ password = ''
 
 
 #Inverter Einstellungen
-inverter_serial = "114181811699"
+inverter_serial = ""
 inverter_power_now = 0 #aktueller inverter_power_set des Inverters
 inverter_power_set = 0 #Power des Inverters
 inverter_power_setMqtt = 0 #inverter_power_set für MQTT
